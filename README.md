@@ -40,7 +40,8 @@ At this point I reached a deadend and I didn't know what to do after I have foun
 
 ![not found](https://user-images.githubusercontent.com/57154996/193306686-eca2cd65-400f-4c04-b639-32190d72e3d4.PNG)
 
-Until I tried 0 , and surprise surprise here is the flag
+Until I md5 hashed 0 and tried it , and here is the flag
 
-![flag](https://user-images.githubusercontent.com/57154996/193307407-c582edbb-6cd7-41af-b7e5-fe97b94a46ae.PNG)
+![flag](https://user-images.githubusercontent.com/57154996/193310882-78a7969d-2dd2-4558-8b5b-7a55c614527d.PNG)
+
 
